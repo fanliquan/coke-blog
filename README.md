@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+erlang/OTP
 
-You can use the [editor on GitHub](https://github.com/fanliquan/coke-blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+    使用erlang作为开发语言已经有三年多了（之前一直使用C语言），最近想写点什么，总结一下过去几年使用erlang的心得。最近一直在思考一个问题，为什么互联网公司对服务器端的高性能高并发需求旺盛，而天生分布式的erlang语言却无人问津。可能无互联网背景的爱立信公司缺乏对erlang语言的推广，也可能erlang的开源项目较少，阻碍了erlang语言的开发和使用。眼看着这么好的语言被忽视，真觉得可惜。在此向大家强烈推荐啊^-^.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+从以下几个方面介绍erlang/OTP平台的强大
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fanliquan/coke-blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 并发分布式编程
+# 容错
+# erlang虚拟机和运行时系统
+# erlang的核心函数式语言
